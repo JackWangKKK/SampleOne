@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>description</key>
+		<string>钢铁般的男人</string>
+		<key>name</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>description</key>
+		<string>囡囡女女</string>
+		<key>name</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>description</key>
+		<string>全家福</string>
+		<key>name</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>5</string>
+		<key>description</key>
+		<string>火爆的少年</string>
+	</dict>
+	<dict>
+		<key>description</key>
+		<string>女性很美丽</string>
+		<key>name</key>
+		<string>1</string>
+	</dict>
+</array>
+</plist>
